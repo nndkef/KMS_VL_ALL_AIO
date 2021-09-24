@@ -1,4 +1,4 @@
-# KMS_VL_ALL_AIO
+# KMS_VL_ALL_AIO, Office (ko)
 Smart Activation Script
 
 https://pastebin.com/raw/PLhB7UnK
